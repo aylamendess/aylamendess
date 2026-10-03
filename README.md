@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**aylamendess/aylamendess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ayla Mendes**! 💻✨
 
-Here are some ideas to get you started:
+🎓 Information Systems student at **PUC Minas**
+🌱 Currently learning **C#, JavaScript, Web Development and Object-Oriented Programming**
+💡 Interested in **software development and technology**
+🚀 Always looking for new challenges and opportunities to learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ayla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ayla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ayla-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ayla-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ayla-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Ayla-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Ayla-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+
+<br>
+
+### 📚 Currently learning
+
+* 💻 C# and .NET
+* 🌐 Web Development
+* 🧩 Object-Oriented Programming
+* ⚙️ Back-end Development
+* 🔧 Git & GitHub
+
+### 📫 Connect with me
+
+<div>
+  <a href="https://github.com/aylamendess">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
