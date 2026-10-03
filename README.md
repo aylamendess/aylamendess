@@ -29,6 +29,12 @@ I'm **Ayla Mendes**! 💻✨
 * ⚙️ Back-end Development
 * 🔧 Git & GitHub
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aylamendess/aylamendess/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aylamendess/aylamendess/output/github-contribution-grid-snake-dark.svg"> 
+  <img align="center" alt="cobrinha" src="https://raw.githubusercontent.com/aylamendess/lauramorgadobastos/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### 📫 Connect with me
 
 <div>
@@ -39,3 +45,4 @@ I'm **Ayla Mendes**! 💻✨
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
